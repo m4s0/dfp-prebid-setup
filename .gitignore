@@ -7,3 +7,4 @@ googleads.yaml
 local_settings.py
 .idea/
 env/
+key/

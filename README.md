@@ -5,10 +5,14 @@ An automated DFP line item generator for [Prebid.js](http://prebid.org/)
 
 ## Setup
 
+<<<<<<< Updated upstream
 `use python 2`
+=======
+`use python 3`
+>>>>>>> Stashed changes
 
 ```
-virtualenv env -p python2
+virtualenv env -p python3
 ```
 
 (for unix like machines)
